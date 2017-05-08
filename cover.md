@@ -1,14 +1,12 @@
 # 
 
+---
 
-
-
+# OWASP Developers Guide {#book-title}
 
 
 
 ---
-
-# OWASP Developers Guide {#book-title}
 
 
 
