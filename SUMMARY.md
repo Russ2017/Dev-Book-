@@ -1,11 +1,12 @@
 # Summary
 
+* [Cover](cover.md)
 * [README](README.md)
 * [Introduction](00-Introduction/Introduction.md)
   * [Authors](00-Introduction/Authors.md)
   * [Foreword](00-Introduction/00-Foreword.md)
   * [About the Development Guide](00-Introduction/01-About the Development Guide.md)
-  * [About the Open Web Application Security Project](00-Introduction/02-About the Open Web Application Security Project.md) 
+  * [About the Open Web Application Security Project](00-Introduction/02-About the Open Web Application Security Project.md)
 * Foundations
   * [Security Fundamentals](01-Foundations/01-Security Fundamentals.md)
   * [Policies, Standards, and Guidelines](01-Foundations/02-Policies, Standards and Guidelines.md)
@@ -31,3 +32,4 @@
   * [Concurrency](03-Build/0x15-Concurrency.md)
 * Operational security
   * [Administrative interfaces](04-OperationalSecurity/Administrative-Interfaces.md)
+
